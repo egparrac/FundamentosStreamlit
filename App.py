@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Eres estupida NAYLA")
+st.title("Fundamentos de Streamlit")
 st.sidebar.image("LogoUHEpng.png")
 st.sidebar.title("Parámetros")
 
